@@ -1,3 +1,3 @@
 # glitch-effect-blender2.8
-download the blender file , open the file in blender software , it is recommended to use in blender 2.8
-change to object mode , select text ,edit the text by pressing tab key 
+Download the blender file and open the file in blender software. It is recommended to use blender2.8<br><br>
+![](/images/img1.png)
