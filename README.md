@@ -6,3 +6,10 @@ your directories will be different from mine , browse from your directory and op
 now edit text by changing mode to object mode >> hide the icosphere from right side >> select the text >> press tab button >>
 change text as desired <br><br>
 ![](/images/img3.png)<br><br>
+changes we have done in shading of icosphere<br><br>
+![](/images/img5.png)<br><br>
+changes we have done in shading of text<br><br>
+![](/images/img6.png)<br><br>
+Inorder to save the animation in video format we have make changes in output option at right side<br>
+save video click on render at top >> render animation<br><br>
+![](/images/img4.png)<br><br>
