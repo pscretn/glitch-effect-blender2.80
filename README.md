@@ -1,7 +1,5 @@
 # glitch-effect-blender2.8
-Download the blender file and open the file in blender software. It is recommended to use blender2.8<br>
-<br>
+Download the blender file and open the file in blender software. It is recommended to use blender2.8<br><br>
 ![](/images/img1.png)<br><br>
-your directories will be different from mine , browse from your directory <br>
-<br>
-![](/images/img2.png)<br>
+your directories will be different from mine , browse from your directory and open file <br><br>
+![](/images/img2.png)<br><br>
