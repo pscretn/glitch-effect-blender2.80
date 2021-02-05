@@ -33,6 +33,6 @@ save video click on render at top >> render animation<br><br>
 ![](/images/15.png)
 <br><br>
 #  Blender Download Link 
-### Latest version (blender2.91.2) : https://www.blender.org/download/
+### Latest version  : https://www.blender.org/download/
 ### blender2.80 : https://download.blender.org/release/Blender2.80/
 ### All Versions Available here : https://download.blender.org/release/
