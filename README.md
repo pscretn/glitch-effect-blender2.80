@@ -16,7 +16,7 @@ changes we have done in shading of text<br><br>
 Inorder to save the animation in video format we have make changes in output option at right side<br>
 save video click on render at top >> render animation<br><br>
 ![](/images/img4.png)<br><br>
-# Animation preview
+# Animation image preview
 <br><br>
 ![](/images/1.png)
 ![](/images/2.png)
@@ -26,11 +26,6 @@ save video click on render at top >> render animation<br><br>
 ![](/images/6.png)
 ![](/images/7.png)
 ![](/images/8.png)
-![](/images/9.png)
-![](/images/10.png)
-![](/images/11.png)
-![](/images/12.png)
-![](/images/12.png)
 ![](/images/13.png)
 ![](/images/14.png)
 ![](/images/15.png)
