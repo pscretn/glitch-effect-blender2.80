@@ -1,3 +1,5 @@
+
+<img src="https://github.com/pscretn/smart-hand-glove/blob/master/images/smart%20talk.gif" width="500"  />  <br><br>
 # glitch-effect-blender2.80
 Download the blender file and open the file in blender software. It is recommended to use blender2.80<br><br>
 ![](/images/img1.png)<br><br>
